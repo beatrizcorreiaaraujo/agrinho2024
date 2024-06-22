@@ -6,7 +6,7 @@ img{
     position: relative;
     top: 60px;
     display: block;
-    max-width: 0px;
+    max-width: 80px;
     max-height: 50px;
     margin: 10px auto;
    }
