@@ -6,9 +6,9 @@ img{
     position: relative;
     top: 30px;
     display: block;
-    max-width: 70px;
-    max-height: 70px;
-    margin: 0px auto;
+    max-width: 50px;
+    max-height: 50px;
+    margin: 10px auto;
    }
 
 *{
