@@ -25,7 +25,7 @@ nav li{
 }
 
 nav li a{
-    text-align: center;
+    position: center;
     display: inline-block;
     color: #ffffff;
     text-decoration: none;
