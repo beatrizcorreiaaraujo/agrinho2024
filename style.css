@@ -5,7 +5,9 @@
 img{
     position: left;
     top: 30px;
-    margin: 0px auto;
+    max-width: 0px;
+    max-height: 0px;
+    margin: 5px auto;
    }
 
 *{
