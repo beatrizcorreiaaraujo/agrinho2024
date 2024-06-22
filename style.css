@@ -27,7 +27,7 @@ nav li a:hover{
 
 .dropdown-menu{
   position: absolute;
-  box-shadow: 0 0 4px black;
+  box-shadow: 0 0 8px black;
   display: none;   
 }
 
