@@ -8,6 +8,8 @@ img{
     max-width: 70px;
     max-height: 70px;
     margin: 0px auto;
+    display: block;
+    text-align: left;
    }
 
 *{
