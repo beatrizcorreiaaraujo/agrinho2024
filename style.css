@@ -4,7 +4,7 @@
 .titulo{
     color: black;
     position: relative;
-    max-width: 10px;
+    max-width: 0px;
     max-height: 10px;
     margin: 0px auto;
 }
