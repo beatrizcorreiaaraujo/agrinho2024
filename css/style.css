@@ -21,14 +21,14 @@ body {
 }
 
 .tudoo {
-    width: 100%;
+    width: 60%;
     height: auto;
 }
 
 .seta {
     width: 100%;
     height: 100%;
-    background-image: url("../img/seta.png");
+    background-image: url("img/seta.png");
         display: inline-block;
 }
 
