@@ -9,7 +9,7 @@
 
 .cabecalho {
     color: rgb(0, 0, 0);
-    background-color: s#40d62c;
+    background-color:#40d62c;
     display: flex;
     justify-content: space-between;
     align-items: center;
