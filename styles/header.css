@@ -9,7 +9,7 @@
 
 .cabecalho {
     color: rgb(0, 0, 0);
-    background-color:#d0b7ff;
+    background-color:#b8b7ff;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -83,5 +83,5 @@
 
 .opcoes_link {
     text-decoration: none;
-    color: white;
+    color: rgb(0, 0, 0);
 }
