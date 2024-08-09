@@ -9,7 +9,7 @@
 
 .cabecalho {
     color: rgb(0, 0, 0);
-    background-color:#ba96fd;
+    background-color:#d0b7ff;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -40,7 +40,7 @@
 .lista-menu_item, .lista-menu_titulo {
     padding: 1em;
     padding-bottom: 1em;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
 }
 
 .container_botao {
